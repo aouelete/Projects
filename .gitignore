@@ -1,7 +1,12 @@
+# python
 *.py[cod]
 
-# C extensions
+# java 
+*.class
+
+# c
 *.so
+c/Numbers/bin
 
 # Packages
 *.egg
